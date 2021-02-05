@@ -70,7 +70,7 @@ ESP8266_FLASH_SIZES = {
     'd1_mini_pro': FLASH_SIZE_16_MB,
     'esp01': FLASH_SIZE_512_KB,
     'esp01_1m': FLASH_SIZE_1_MB,
-    'esp07': FLASH_SIZE_4_MB,
+    'esp07': FLASH_SIZE_1_MB,
     'esp12e': FLASH_SIZE_4_MB,
     'esp210': FLASH_SIZE_4_MB,
     'esp8285': FLASH_SIZE_1_MB,
